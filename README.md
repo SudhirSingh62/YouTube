@@ -24,7 +24,7 @@
 ## 1. Clone the Repository
 - To get started with the project, clone the repository to your local machine:
 ```bash
-git clone git@github.com:lazarous18/YouTube.git
+git clone git@github.com:SudhirSingh62/YouTube.git
 cd YouTube-clone
 ```
 ## 2. Open the Project
